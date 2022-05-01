@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p   >
-<img width=”200" height=”200" src=”https://user-images.githubusercontent.com/24896037/166166231-8d8cce6c-679d-4c96-ac31-f143f9d65977.jpeg" alt=”my banner”>
+<p>
+<img src="https://user-images.githubusercontent.com/24896037/166166231-8d8cce6c-679d-4c96-ac31-f143f9d65977.jpeg"  alt=”my banner”>
 </p>
 
 <p>Welcome to my page! </br> I'm Thomas, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
