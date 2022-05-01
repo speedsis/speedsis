@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align=”center”>
+<img width=”200" height=”200" src=”https://user-images.githubusercontent.com/24896037/166166231-8d8cce6c-679d-4c96-ac31-f143f9d65977.jpeg" alt=”my banner”>
+</p>
+
+<img alt=”React” src=”https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
