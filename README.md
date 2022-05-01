@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/24896037/166166231-8d8cce6c-679d-4c96-ac31-f143f9d65977.jpeg"  alt=”my banner”>
 </p>
  
-<p>Welcome to my page! </br> I'm Maxwell, Fullstack developer from <img src="https://t4.ftcdn.net/jpg/02/26/83/45/240_F_226834554_klYTC5kEQk1Gx4lCvQkFxgabfRfnoBWP.jpg" width="13"/> <b>Belém, Brasil</b>, currently living in <img src="https://t4.ftcdn.net/jpg/02/26/83/45/240_F_226834554_klYTC5kEQk1Gx4lCvQkFxgabfRfnoBWP.jpg" width="13"/> <b>Belém, Brasil</b>. </p>
+<p>Welcome to my page! </br> I'm Maxwell, Fullstack developer from <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuvK_WgWTMz2JFmzHnZ6hUBtrFhdXR-YlEog&usqp=CAU" width="13"/> <b>Belém, Brasil</b>, currently living in <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuvK_WgWTMz2JFmzHnZ6hUBtrFhdXR-YlEog&usqp=CAU" width="13"/> <b>Belém, Brasil</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
